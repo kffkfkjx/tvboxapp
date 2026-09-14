@@ -17,3 +17,4 @@ Show TV|https://ciner-live.ercdn.net/showtv/showtv.m3u8
 NTV|https://dogus-live.ercdn.net/ntv/ntv.m3u8
 Halk TV|https://halktv-live.ercdn.net/halktv/halktv.m3u8
 Tele 1|https://tele1-live.ercdn.net/tele1/tele1.m3u8
+beIN SPORTS 1 HD|https://ladyboy.taylandpattaya.cfd//hls/bein1.m3u8

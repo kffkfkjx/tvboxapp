@@ -27,7 +27,7 @@ beIN SPORTS 5 HD|https://ladyboy.taylandpattaya.cfd//bein5/tracks-v1a1/mono.m3u8
 beIN MAX 1 HD|https://ladyboy.taylandpattaya.cfd//beinmax1/tracks-v1a1/mono.m3u8
 beIN MAX 2 HD|https://ladyboy.taylandpattaya.cfd//beinmax2/tracks-v1a1/mono.m3u8
 SSPORT 1 HD|https://ladyboy.taylandpattaya.cfd//s-sport/tracks-v1a1/mono.m3u8
-SSPORT 1 HD|https://ladyboy.taylandpattaya.cfd//s-sport2/tracks-v1a1/mono.m3u8
+SSPORT 2 HD|https://ladyboy.taylandpattaya.cfd//s-sport2/tracks-v1a1/mono.m3u8
 beIN SPORTS HABER|https://maden.ecanlitvizle.live/beinsporthaber.m3u8?tkn=TSlAMYfSQW3G6OK8AREVgQ&tms=1789432434&hst=www.ecanlitvizle.live&ip=78.162.128.66&utkn=ec177d71ca93196e732a00e10270970c&ch=bein-sports-haber-hd
 
 

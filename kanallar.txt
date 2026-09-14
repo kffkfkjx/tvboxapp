@@ -13,10 +13,23 @@ TGRT Haber|https://tgrthaber-live.ercdn.net/tgrthaber/tgrthaber.m3u8
 TGRT Belgesel|https://tgrtbelgesel-live.ercdn.net/tgrtbelgesel/tgrtbelgesel.m3u8
 Habertürk|https://ciner-live.ercdn.net/haberturk/haberturk.m3u8
 Bloomberg HT|https://ciner-live.ercdn.net/bloomberght/bloomberght.m3u8
-Show TV|https://ciner-live.ercdn.net/showtv/showtv.m3u8
+Show TV|https://rmtftbjlne.turknet.ercdn.net/bpeytmnqyp/showtv/showtv.m3u8?hash=c4ad9c084749d5f71012f3658f2c28ef
+ATV|https://trkvz.daioncdn.net/atv/atv.m3u8?ce=3&app=d1ce2d40-5256-4550-b02e-e73c185a314e&st=uqvFXX1Zf_hIbCIgMhUEtQ&e=1789463952&ppid=2b72f2ff1a8f4891ce0eace7878a569f&dfp_paln=AQzzBGQEER9OXbGkCQa87kV_SUAbFUhmbRwVdp8LQOPRg20A0ZTUmq4VajZvr72RnjsQ_c75xltjFsPcwmiJdrREu6A4CMQRBBM0Ef2TGi4c69_A8Hic7srE-lMqSy2KZDXDrzrONd4TDV_ueGRapaOcdacqmCWeerG7Is4Cb3cmG8mRd3OCMN7H1j_et6OlE1t-hY_f57GfvQiSHCmNrnz382R0KVs87RDX1iQcVinchSFN8LwVM3QuklQqVEignHcLaxEwYr6mWyXx_bDmNil_f-2OjLvbeJ0e2mP2ajE0CrucPHs-7v7xAMUI2yiw_vSL-Jw3kCvo9R8Jr4I_PYJpi1LGTqb3plmtYYX77rxfLAMe6LB1h7DAmCY-Vxxui-iwVaBM6vSrgZX8nf_dPI5FBlLiqHoWqw6rGPKVpDCwatjGfuy9bbY-cruEMK4nP9bYK_c1XMbBL03-HJWHvoXFFNjEekSRfokFDLnVTGIDiQJHix12NO9GYVfJOIWGjHrchIXKNfQKF9BQQg54ZqiChKxiYPMCZ5ptf41pPNJrAAINjm2B7r5ZgVz9APSG6RtNqZp6EaXH4rSD-nwbs8eLAKL-JwScZ3hjXC2ipkupp_OO6ZUFyH1TzD8gqp0WhS8-hw0dJTRLtnuhiGy_jzOBUPAvMlm6faOKb_wGPm-XdKx5KQbMzXZ7NmZK5PVb4cglc-PiYRHYzB4Rl6prD_xRdgpBT8QJOarEEzgqM4xMa5PujfCu1A78sCeFcru6Mm3qbQG6hxpRhy576x-N2R0LkRA3QOIMkT5xUANYXdK96TyyCu6-KrxsIzPsLD6skgjBPQHPv3X9Q11QPOuA0gI33HEjqLyNj8DrzcTwQckK--DAEMIa-W-7UaoqxKie4fWbiHoeJaR3GjkSfO09qFUV3RkXoOmu90tVl5gqMxkRpuINt9l8iBPmlF1Qv2yjNWUNaCTPq9601WbVcFQ2Kwj_5riOwKsiFEswDbBKV5Yqz_O9cFOZwTBmJtUdoA1M-SJY9AcP5V4NGCSDPELRey9fhwK1R4Okq39YTFYzHgoLvK8Sg5XlvC9BrnxgmIQkFMbJP99il-TX39A6Fu8YxSa61uQNABkRXYIS-FlqKst5MLlAGB0hHVSwMEIDo-v0jt44XlwEJL4r1zLVebeeC0Y7nKGQv7M4QAuR37-pEleyw8T3lEKa9rmTfBm8ThNf1l-blp3fcuWAKZrR8zwyitqvZCR7sNVUnqAasmazDkSFVZCry2ipfpuXM4xd60Nc9VD36gXkMeQut-E6r0WCImw8WRRl0gBOnArvw7Nhzby7Hb1i83zIq6w1sh_oAydELBCVMQseWF1cWLr-4xrYjEXC76Egx8tApRlEq8Vur8dUx7lu4jQhpkQbufPYxnI0j1GS0mqVYF6xYhWuv0QvldhN4yXRrtX0_8oSxfyMb6lgHQssuiAJ1UlzeZ7N5WzDLBRbEx17eANvgXebYpfIImg0yZgoRoaisVa5XPCUFt3IcNt_LChvlee1YD6MSSxkASnZSpwP_X1BL2ww9Ms3TBc6_VdAg5FyT4SWEAUFDjOVd8cXfajTppXNJib7EZTJcZzodpBQvhYk0P57IvOVRXPxNOK7vljYTcCY_QjcGMoNWyUSpBazS2A5YY4Ou8Zqmw..
 NTV|https://dogus-live.ercdn.net/ntv/ntv.m3u8
 Halk TV|https://halktv-live.ercdn.net/halktv/halktv.m3u8
 Tele 1|https://tele1-live.ercdn.net/tele1/tele1.m3u8
 beIN SPORTS 1 HD|https://ladyboy.taylandpattaya.cfd//hls/bein1.m3u8
+beIN SPORTS 1 HD YEDEK|https://andro.evrenesoglu99.click/checklist/androstreamlivekral.m3u8
 beIN SPORTS 2 HD|https://ladyboy.taylandpattaya.cfd//bein2/tracks-v1a1/mono.m3u8
+beIN SPORTS 3 HD|https://ladyboy.taylandpattaya.cfd//bein3/tracks-v1a1/mono.m3u8
+beIN SPORTS 4 HD|https://ladyboy.taylandpattaya.cfd//bein4/tracks-v1a1/mono.m3u8
+beIN SPORTS 5 HD|https://ladyboy.taylandpattaya.cfd//bein5/tracks-v1a1/mono.m3u8
+beIN MAX 1 HD|https://ladyboy.taylandpattaya.cfd//beinmax1/tracks-v1a1/mono.m3u8
+beIN MAX 2 HD|https://ladyboy.taylandpattaya.cfd//beinmax2/tracks-v1a1/mono.m3u8
+SSPORT 1 HD|https://ladyboy.taylandpattaya.cfd//s-sport/tracks-v1a1/mono.m3u8
+SSPORT 1 HD|https://ladyboy.taylandpattaya.cfd//s-sport2/tracks-v1a1/mono.m3u8
+beIN SPORTS HABER|https://maden.ecanlitvizle.live/beinsporthaber.m3u8?tkn=TSlAMYfSQW3G6OK8AREVgQ&tms=1789432434&hst=www.ecanlitvizle.live&ip=78.162.128.66&utkn=ec177d71ca93196e732a00e10270970c&ch=bein-sports-haber-hd
+
+
+
 

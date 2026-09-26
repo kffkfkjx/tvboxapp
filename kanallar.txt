@@ -18,9 +18,9 @@ ATV|https://trkvz.daioncdn.net/atv/atv.m3u8?ce=3&app=d1ce2d40-5256-4550-b02e-e73
 NTV|https://dogus-live.ercdn.net/ntv/ntv.m3u8
 Halk TV|https://halktv-live.ercdn.net/halktv/halktv.m3u8
 Tele 1|https://tele1-live.ercdn.net/tele1/tele1.m3u8
-beIN SPORTS 1 HD|https://ladyboy.taylandpattaya.cfd//hls/bein1.m3u8
-beIN SPORTS 1 HD YEDEK|https://andro.evrenesoglu99.click/checklist/androstreamlivekral.m3u8
-beIN SPORTS 2 HD|https://ladyboy.taylandpattaya.cfd//bein2/tracks-v1a1/mono.m3u8
+beIN SPORTS 1 HD|https://ladyboy.yedektv.cfd//hls/bein1.m3u8
+beIN SPORTS 1 HD YEDEK|https://ladyboy.yedektv.cfd//hls/bein1.m3u8
+beIN SPORTS 2 HD|https://ladyboy.taylandpattaya.cfd//bein2/tracks-v1a1/mono.m3u8h
 beIN SPORTS 3 HD|https://ladyboy.taylandpattaya.cfd//bein3/tracks-v1a1/mono.m3u8
 beIN SPORTS 4 HD|https://ladyboy.taylandpattaya.cfd//bein4/tracks-v1a1/mono.m3u8
 beIN SPORTS 5 HD|https://ladyboy.taylandpattaya.cfd//bein5/tracks-v1a1/mono.m3u8
